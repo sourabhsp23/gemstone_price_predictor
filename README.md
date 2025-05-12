@@ -1,5 +1,16 @@
 ## end to end ml project
 
+##  Features
+
+-  Building ML projects the right way — modular, reusable, and scalable
+- Understanding model performance metrics deeply
+- Writing exception-safe, production-grade code
+- Creating end-user accessible ML applications via Flask
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+
 
 ### created an environment
 
